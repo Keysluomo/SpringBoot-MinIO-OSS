@@ -1,0 +1,7 @@
+cloudclient:
+  status: 1
+  url: http://127.0.0.1:9000
+  accesskey: minioadmin
+  secretkey: minioadmin
+  bucketName: dice-files
+  storeDir: fdp/files/dev

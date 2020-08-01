@@ -1,0 +1,7 @@
+cloudclient:
+  status: 1             # 0：启动OSS 1: 启动MinIO
+  url: http://127.0.0.1:9000  #OSS URL 或者是MinIOURL
+  accesskey: minioadmin    #登录OSS账户 或者是MinIO账户
+  secretkey: minioadmin   #登录OSS账户  或者是MinIO密码
+  bucketName: xxxx    #代表你存储的bucket名字
+  storeDir: /         # storeDir代表路径
